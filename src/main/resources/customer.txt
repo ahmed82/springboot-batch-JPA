@@ -1,0 +1,8 @@
+create table Customer (
+       	id long not null auto_increment,
+        firstName varchar(255),
+        lastName varchar(255),
+        birthdate varchar(255),
+        primary key (id)
+7
+    )
